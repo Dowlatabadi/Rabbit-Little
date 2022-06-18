@@ -1,0 +1,17 @@
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.csproj.AssemblyReference.cache
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.GeneratedMSBuildEditorConfig.editorconfig
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.AssemblyInfoInputs.cache
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.AssemblyInfo.cs
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.csproj.CoreCompileInputs.cache
+/media/mehrdad/New Volume1/Queue/Consumer/bin/Debug/net6.0/prd
+/media/mehrdad/New Volume1/Queue/Consumer/bin/Debug/net6.0/prd.deps.json
+/media/mehrdad/New Volume1/Queue/Consumer/bin/Debug/net6.0/prd.runtimeconfig.json
+/media/mehrdad/New Volume1/Queue/Consumer/bin/Debug/net6.0/prd.dll
+/media/mehrdad/New Volume1/Queue/Consumer/bin/Debug/net6.0/prd.pdb
+/media/mehrdad/New Volume1/Queue/Consumer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.csproj.CopyComplete
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.dll
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/refint/prd.dll
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.pdb
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/prd.genruntimeconfig.cache
+/media/mehrdad/New Volume1/Queue/Consumer/obj/Debug/net6.0/ref/prd.dll
